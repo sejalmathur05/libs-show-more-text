@@ -1,4 +1,4 @@
-# React Show More Text 1.7.0
+# React Show More Text 1.7.1
 
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
