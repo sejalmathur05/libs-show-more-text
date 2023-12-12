@@ -1,5 +1,5 @@
 {
-  "name": "react-show-more-text",
+  "name": "libs-react-show-more-text",
   "version": "1.0.0",
   "description": "The text surrounded by the component will be truncated. Anything surrounded by the component could be evaluated as text.",
   "main": "lib/ShowMoreText.js",
